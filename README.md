@@ -2,7 +2,8 @@
 
 A ClojureScript validation library
 
-Animated GIF preview (loading)
+
+[Click here to try it live](https://rawgithub.com/runexec/dominoes/master/example/index.html) or watch the animated GIF preview (loading)
 
 ![preview gif animation](dominoes.gif "Dominoes animated GIF")
 
