@@ -1,7 +1,6 @@
-# dominoes
+# dominoes [![endorse](https://api.coderwall.com/runexec/endorsecount.png)](https://coderwall.com/runexec)
 
-A ClojureScript validation library
-
+A ClojureScript front-end validation library 
 
 [Click here to try it live](https://rawgithub.com/runexec/dominoes/master/example/index.html) or watch the animated GIF preview (loading)
 
