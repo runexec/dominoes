@@ -10,7 +10,7 @@ A ClojureScript front-end validation library
 
 
 ```clojure
-(use '[dominoes.core
+(use '[dominoes
        :only [document-ready?
               validate!
               valid-submit!
