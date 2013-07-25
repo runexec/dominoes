@@ -2,11 +2,12 @@
 
 A ClojureScript validation library
 
-## Usage
-
 Animated GIF preview (loading)
 
 ![preview gif animation](dominoes.gif "Dominoes animated GIF")
+
+## Usage Example
+
 
 ```clojure
 (use '[dominoes.core
