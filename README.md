@@ -4,6 +4,8 @@ A ClojureScript validation library
 
 ## Usage
 
+Animated GIF preview
+
 ![preview gif animation](dominoes.gif "Dominoes animated GIF")
 
 ```clojure
