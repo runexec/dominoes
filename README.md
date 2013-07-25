@@ -100,6 +100,11 @@ git clone https://github.com/runexec/dominoes.git
 cd dominoes; lein do uberjar, install
 ```
 
+Project
+
+```[dominoes "0.1.0-SNAPSHOT"]```
+
+
 ## License
 
 Copyright © 2013 FIXME
